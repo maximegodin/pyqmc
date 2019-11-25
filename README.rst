@@ -20,7 +20,7 @@ pyqmc is a Python package for Quasi-Monte Carlo methods.
 
 
 * Free software: MIT license
-* Documentation: https://pyqmc.readthedocs.io.
+* Documentation: https://py-qmc.readthedocs.io.
 
 
 Features
