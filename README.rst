@@ -9,8 +9,8 @@ pyqmc
 .. image:: https://img.shields.io/travis/maximegodin/pyqmc.svg
         :target: https://travis-ci.org/maximegodin/pyqmc
 
-.. image:: https://readthedocs.org/projects/pyqmc/badge/?version=latest
-        :target: https://pyqmc.readthedocs.io/en/latest/?badge=latest
+.. image:: https://readthedocs.org/projects/py-qmc/badge/?version=latest
+        :target: https://py-qmc.readthedocs.io/en/latest/?badge=latest
         :alt: Documentation Status
 
 
